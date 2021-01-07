@@ -1,6 +1,6 @@
-# sensor_check_app
+# Quizzler Application
 
-A new Flutter application.
+A Flutter application that takes quiz test and provide score and feedback based on test. 
 
 ## Getting Started
 
